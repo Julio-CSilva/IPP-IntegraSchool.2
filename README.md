@@ -1,6 +1,6 @@
 # IPP-IntegraSchool.2
 
-https://miro.medium.com/max/635/0*QeaPyStVoyGs5eF4.gif
+![Alt Text](https://miro.medium.com/max/635/0*QeaPyStVoyGs5eF4.gif)
 
 # Forest-Fires-Project
 
