@@ -8,6 +8,10 @@ Trabalho de conclusão do curso de python 2020.2 - IMD (Integra School) sobre as
 
 Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesunidas.org/pos2015/agenda2030/ <<<
 
+Com o objetivo de fomentar e alertar para o aumento de casos de incêndios florestais, algo que se torna cada vez mais preocupante para a humanidade, nosso trabalho tem enfoque nos anos de 1998 - 2017, mas Dados do INPE (Instituto Nacional de Pesquisas Espaciais) revelam que o número de incêndios na Amazônia aumentou 28% entre julho de 2019 e julho de 2020, o que nos deixa mais alerta sobre o tema.
+
+![alt text](https://super.abril.com.br/wp-content/uploads/2020/01/incendio-controlado-floresta.jpg?quality=70&strip=info&resize=680,453)
+
 ## Informações básicas:
 
 * Universidade Federal do Rio Grande do Norte (**UFRN**) - Instituto Metropole Digital (**IMD**)
