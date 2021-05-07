@@ -4,7 +4,7 @@
 
 # Forest-Fires-Project
 
-Trabalho de conclusão do curso de python 2020.2 - IMD (Integra School) sobre as queimadas florestais acometidas no Brasil. Esse trabalho foi fundamento em cima dos temas 3, 13, 14 e 15 propostos pela "Agenda Onu 2030", que tem como finalidade transformar o mundo com propostas de desenvolvimento sustentável.
+Trabalho de conclusão do curso de python 2020.2 - IMD (Integra School) sobre as queimadas florestais acometidas no Brasil e seus fatores de risco. Esse trabalho foi fundamento em cima dos temas 3, 13, 14 e 15 propostos pela "Agenda Onu 2030", que tem como finalidade transformar o mundo com propostas de desenvolvimento sustentável.
 
 Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesunidas.org/pos2015/agenda2030/ <<<
 
